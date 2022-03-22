@@ -1,3 +1,3 @@
 # repo
-tinc gana
+ñam
 
